@@ -1,0 +1,116 @@
+2026-10-03 01:35:40 | LOGIN | ravi | Session created at 2026-10-03 01:35:40
+2026-10-03 01:35:43 | LOGOUT | ravi | User logged out
+2026-10-03 01:35:43 | DISCONNECT | ravi | Client connection closed
+2026-10-03 09:29:12 | LOGIN | ravi | Session created at 2026-10-03 09:29:12
+2026-10-03 09:29:17 | LOGOUT | ravi | User logged out
+2026-10-03 09:29:17 | DISCONNECT | ravi | Client connection closed
+2026-10-03 09:33:03 | LOGIN | ravi | Session created at 2026-10-03 09:33:03
+2026-10-03 09:33:07 | LOGOUT | ravi | User logged out
+2026-10-03 09:33:07 | DISCONNECT | ravi | Client connection closed
+2026-10-03 09:36:08 | LOGIN | ravi | Session created at 2026-10-03 09:36:08
+2026-10-03 09:36:28 | LOGOUT | ravi | User logged out
+2026-10-03 09:36:28 | DISCONNECT | ravi | Client connection closed
+2026-10-03 09:37:43 | LOGIN | ravi | Session created at 2026-10-03 09:37:43
+2026-10-03 09:37:57 | LOGIN | john | Session created at 2026-10-03 09:37:57
+2026-10-03 09:38:58 | LOGOUT | ravi | User logged out
+2026-10-03 09:38:58 | DISCONNECT | ravi | Client connection closed
+2026-10-03 09:39:06 | LOGOUT | john | User logged out
+2026-10-03 09:39:06 | DISCONNECT | john | Client connection closed
+2026-10-03 09:40:18 | LOGIN | ravi | Session created at 2026-10-03 09:40:18
+2026-10-03 09:40:33 | LOGIN | john | Session created at 2026-10-03 09:40:33
+2026-10-03 09:40:50 | MESSAGE | ravi | Message sent to john
+2026-10-03 09:41:05 | MESSAGE | john | Message sent to ravi
+2026-10-03 09:41:27 | LOGOUT | john | User logged out
+2026-10-03 09:41:27 | DISCONNECT | john | Client connection closed
+2026-10-03 09:41:35 | LOGIN | john | Session created at 2026-10-03 09:41:35
+2026-10-03 09:41:44 | MESSAGE | ravi | Message sent to john
+2026-10-03 09:42:01 | MESSAGE | john | Message sent to ravi
+2026-10-03 09:42:18 | LOGIN | sam | Session created at 2026-10-03 09:42:18
+2026-10-03 09:42:27 | MESSAGE | sam | Message sent to ravi
+2026-10-03 09:42:44 | MESSAGE | sam | Message sent to john
+2026-10-03 09:42:54 | MESSAGE | john | Message sent to sam
+2026-10-03 09:43:19 | LOGOUT | sam | User logged out
+2026-10-03 09:43:19 | DISCONNECT | sam | Client connection closed
+2026-10-03 09:43:28 | LOGOUT | ravi | User logged out
+2026-10-03 09:43:28 | DISCONNECT | ravi | Client connection closed
+2026-10-03 09:43:31 | LOGOUT | john | User logged out
+2026-10-03 09:43:31 | DISCONNECT | john | Client connection closed
+2026-10-03 10:07:02 | LOGIN | ravi | Session created at 2026-10-03 10:07:02
+2026-10-03 10:07:18 | LOGIN | sam | Session created at 2026-10-03 10:07:18
+2026-10-03 10:07:24 | MESSAGE | sam | Message sent to ravi
+2026-10-03 10:07:36 | MESSAGE | ravi | Message sent to sam
+2026-10-03 10:07:41 | LOGOUT | sam | User logged out
+2026-10-03 10:07:41 | DISCONNECT | sam | Client connection closed
+2026-10-03 10:07:46 | LOGOUT | ravi | User logged out
+2026-10-03 10:07:46 | DISCONNECT | ravi | Client connection closed
+2026-10-03 10:15:53 | LOGIN | ravi | Session created at 2026-10-03 10:15:53
+2026-10-03 10:16:05 | LOGIN_FAILED | john | Invalid username or password
+2026-10-03 10:16:08 | LOGIN | john | Session created at 2026-10-03 10:16:08
+2026-10-03 10:16:24 | FILE_UPLOAD | john | Sent save doc file attachment.txt to ravi (24 bytes)
+2026-10-03 10:16:31 | FILE_DOWNLOAD | ravi | Downloaded 1791002784844_save doc file attachment.txt (24 bytes)
+2026-10-03 10:16:58 | LOGOUT | john | User logged out
+2026-10-03 10:16:58 | DISCONNECT | john | Client connection closed
+2026-10-03 10:17:02 | LOGOUT | ravi | User logged out
+2026-10-03 10:17:02 | DISCONNECT | ravi | Client connection closed
+2026-10-03 18:54:29 | LOGIN | ravi | Session created at 2026-10-03 18:54:29
+2026-10-03 18:54:29 | CONNECTION_ERROR | ravi | An established connection was aborted by the software in your host machine
+2026-10-03 18:54:29 | DISCONNECT | ravi | Client connection closed
+2026-10-03 18:54:35 | LOGIN | ravi | Session created at 2026-10-03 18:54:35
+2026-10-03 18:54:35 | CONNECTION_ERROR | ravi | An established connection was aborted by the software in your host machine
+2026-10-03 18:54:35 | DISCONNECT | ravi | Client connection closed
+2026-10-03 18:54:48 | LOGIN | john | Session created at 2026-10-03 18:54:48
+2026-10-03 18:54:48 | CONNECTION_ERROR | john | An established connection was aborted by the software in your host machine
+2026-10-03 18:54:48 | DISCONNECT | john | Client connection closed
+2026-10-03 18:57:41 | LOGIN | ravi | Session created at 2026-10-03 18:57:41
+2026-10-03 18:57:41 | CONNECTION_ERROR | ravi | An established connection was aborted by the software in your host machine
+2026-10-03 18:57:41 | DISCONNECT | ravi | Client connection closed
+2026-10-03 19:04:01 | LOGIN | ravi | Session created at 2026-10-03 19:04:01
+2026-10-03 19:04:24 | CONNECTION_ERROR | ravi | Connection reset
+2026-10-03 19:04:24 | DISCONNECT | ravi | Client connection closed
+2026-10-03 19:09:39 | LOGIN | ravi | Session created at 2026-10-03 19:09:39
+2026-10-03 19:11:02 | LOGOUT | ravi | User logged out
+2026-10-03 19:11:02 | DISCONNECT | ravi | Client connection closed
+2026-10-03 19:20:10 | LOGIN | ravi | Session created at 2026-10-03 19:20:10
+2026-10-03 19:24:03 | LOGIN | john | Session created at 2026-10-03 19:24:03
+2026-10-03 19:24:20 | LOGIN | sam | Session created at 2026-10-03 19:24:20
+2026-10-03 19:29:29 | INVALID_COMMAND | ravi | Unknown command: Send|john|Hi John!!!
+2026-10-03 19:29:57 | INVALID_COMMAND | john | Unknown command: Send|ravi|Hi Ravi!!
+2026-10-03 19:30:05 | INVALID_COMMAND | john | Unknown command: Send|sam|Hi Sam!!
+2026-10-03 19:33:19 | INVALID_COMMAND | sam | Unknown command: Send|ravi|hello
+2026-10-03 19:33:39 | LOGOUT | ravi | User logged out
+2026-10-03 19:33:39 | DISCONNECT | ravi | Client connection closed
+2026-10-03 19:33:41 | LOGOUT | john | User logged out
+2026-10-03 19:33:41 | DISCONNECT | john | Client connection closed
+2026-10-03 19:33:44 | LOGOUT | sam | User logged out
+2026-10-03 19:33:44 | DISCONNECT | sam | Client connection closed
+2026-10-03 19:34:12 | LOGIN | ravi | Session created at 2026-10-03 19:34:12
+2026-10-03 19:34:26 | LOGIN | john | Session created at 2026-10-03 19:34:26
+2026-10-03 19:34:32 | MESSAGE | john | Message sent to ravi
+2026-10-03 19:34:43 | MESSAGE | ravi | Message sent to john
+2026-10-03 19:35:42 | MESSAGE | john | Message sent to ravi
+2026-10-03 19:35:52 | MESSAGE | ravi | Message sent to john
+2026-10-03 20:44:30 | FILE_UPLOAD | john | Sent Test.txt to ravi (15 bytes)
+2026-10-03 21:31:19 | LOGOUT | ravi | User logged out
+2026-10-03 21:31:19 | DISCONNECT | ravi | Client connection closed
+2026-10-03 21:32:15 | LOGOUT | john | User logged out
+2026-10-03 21:32:15 | DISCONNECT | john | Client connection closed
+2026-10-03 22:08:01 | LOGIN | ravi | Session created at 2026-10-03 22:08:01
+2026-10-03 22:08:54 | LOGIN | john | Session created at 2026-10-03 22:08:54
+2026-10-03 22:10:17 | LOGOUT | ravi | User logged out
+2026-10-03 22:10:17 | DISCONNECT | ravi | Client connection closed
+2026-10-03 22:10:24 | LOGOUT | john | User logged out
+2026-10-03 22:10:24 | DISCONNECT | john | Client connection closed
+2026-10-03 22:31:00 | API_CREATE_USER | siri | User created through HTTP API
+2026-10-03 22:31:36 | API_DELETE_USER | siri | User deleted through HTTP API
+2026-10-03 22:31:46 | API_CREATE_USER | siri | User created through HTTP API
+2026-10-03 22:33:08 | API_UPDATE_USER | siri | User updated through HTTP API
+2026-10-03 22:33:46 | API_DELETE_USER | siri | User deleted through HTTP API
+2026-10-03 22:35:46 | API_LOGIN | ravi | HTTP API login successful
+2026-10-03 23:34:31 | LOGIN_FAILED | ravi | Invalid username or password
+2026-10-03 23:42:42 | LOGIN_FAILED | shawn | Invalid username or password
+2026-10-03 23:44:23 | LOGIN | ravi | Session created at 2026-10-03 23:44:23
+2026-10-03 23:45:27 | LOGOUT | ravi | User logged out
+2026-10-03 23:45:27 | DISCONNECT | ravi | Client connection closed
+2026-10-04 01:45:37 | LOGIN | ravi | Session created at 2026-10-04 01:45:37
+2026-10-04 01:45:43 | LOGOUT | ravi | User logged out
+2026-10-04 01:45:43 | DISCONNECT | ravi | Client connection closed

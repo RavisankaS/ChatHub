@@ -1,0 +1,9 @@
+2026-10-04 02:07:03 | LOGIN | ravi | Session created at 2026-10-04 02:07:03
+2026-10-04 02:07:55 | MESSAGE_FAILED | ravi | Recipient offline: john
+2026-10-04 02:08:41 | LOGIN | john | Session created at 2026-10-04 02:08:41
+2026-10-04 02:08:47 | MESSAGE | ravi | Message sent to john
+2026-10-04 02:09:00 | MESSAGE | ravi | Message sent to ravi
+2026-10-04 02:09:20 | LOGOUT | john | User logged out
+2026-10-04 02:09:20 | DISCONNECT | john | Client connection closed
+2026-10-04 02:09:26 | LOGOUT | ravi | User logged out
+2026-10-04 02:09:26 | DISCONNECT | ravi | Client connection closed
